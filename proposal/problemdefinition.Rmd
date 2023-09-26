@@ -1,13 +1,7 @@
 # The Problem
-<!-- 
-Outlining the issue / weak point / problem to be solved by this proposal. This should be a compelling section that sets the reader up for the next section - the proposed solution!
 
-It is important to cover:
+In the rapidly evolving landscape of data science and statistical analysis, the demand for advanced techniques in causal inference has become increasingly critical. Despite the availability of powerful tools like R for statistical computing, there exists a noticeable gap in accessible and comprehensive educational resources tailored specifically for causal inference within the R community.
 
- - [ ] What the problem is
- - [ ] Who it affects
- - [ ] Have there been previous attempts to resolve the problem
- - [ ] Why it should be tackled
--->
+This gap poses a significant challenge for R users seeking to harness the full potential of their data, as they often lack structured guidance in applying causal inference methodologies effectively. As a result, many researchers, analysts, and practitioners encounter difficulties in accurately deriving causal relationships from observational data, leading to sub-optimal decision-making and potentially skewed outcomes in various domains.
 
-
+Addressing this knowledge deficit is imperative to empower the R community with the skills necessary to conduct robust causal analyses and draw meaningful conclusions from their datasets. By providing a dedicated "Causal Inference in R in a Box" course, we aim to bridge this educational gap and equip R users with the requisite expertise to conduct rigorous causal assessments, thereby significantly enhancing the quality and reliability of their research and analyses.
