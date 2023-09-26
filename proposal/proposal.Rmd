@@ -4,9 +4,8 @@ This is where the proposal should be outlined.
 -->
 
 ## Overview
-<!--
-At a high-level address what your proposal is and how it will address the problem identified. Highlight any benefits to the R Community that follow from solving the problem. This should be your most compelling section.
--->
+
+In response to a growing demand for accessible and comprehensive educational resources in causal inference within the R community, we propose the development of a "Causal Inference in a Box" course. This initiative aims to bridge the existing knowledge gap, empowering R users with the skills needed for robust causal analyses. Leveraging a "teach the teacher" model and building on the successful "Data Science in a Box" template, we will provide a set of instructional materials, including slide decks, lab exercises, and assessments, all meticulously designed to facilitate effective learning. Additionally, we are committed to ensuring inclusivity by offering alternative formats for diverse learning preferences. This comprehensive course, supported by dedicated pedagogical software tools, will revolutionize the way practitioners approach causal inference in the R environment, ultimately enhancing the quality and reliability of their research and analyses.
 
 ## Detail
 
