@@ -22,9 +22,12 @@ Including target dates is really important as you need to be committed and the I
 <!--
 Covering non-technical activities like on-going publicity, paper preparation, discussion groups etc. that might be required to facilitate successful delivery of the project.
 
- - [ ] Announcement post
- - [ ] Delivery blog post
- - [ ] Twitter
+From Malcolm: I'm adjusting this checklist to include some potential routes
+
+ - [ ] Announcement post on r-causal blog
+ - [ ] Chapterly updates on our blog + releases of software
+ - [ ] ~~Twitter~~ social media of all sorts EXCEPT twitter
  - [ ] UseR!
+ - [ ] posit::conf()
  - [ ] ISC meetings
 -->
