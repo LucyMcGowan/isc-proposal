@@ -25,7 +25,7 @@ The content will be based on our forthcoming book, "Causal Inference in R". We w
 
 ### Accessibility and Inclusivity
 
-We plan to provide alternative formats for learners with different learning preferences, such as audio versions or transcripts for the visually impaired.
+We plan to provide alternative formats for learners with different learning preferences, such as text descriptions of visualizations for the visually impaired.
 
 
 
