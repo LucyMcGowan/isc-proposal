@@ -1,6 +1,6 @@
-proposal<-"Boilerplate ISC Proposal"
+proposal<-"Causal inference in a Box"
 proposal.file<-"isc-proposal.Rmd"
-author<-"Steph Locke"
+author<-"Lucy D’Agostino McGowan, Malcolm Barrett, Travis Gerke"
 
 rmarkdown::render(proposal.file, output_format="html_document",
                   output_dir="out", quiet=TRUE)
