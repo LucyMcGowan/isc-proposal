@@ -21,7 +21,7 @@ The content will be based on our forthcoming book, "Causal Inference in R". We w
 
 **Lab Exercises:** We will develop a series of hands-on lab exercises corresponding to the concepts covered in each chapter. Additionally, we will provide datasets, code templates, and specific tasks to guide learners through the application of causal inference techniques in R.
 
-**Assessments:** We will integrate quizzes, self-assessment questions, and knowledge checks within the course materials to reinforce learning and allow educator and learners to gauge progress.
+**Assessments:** We will integrate quizzes, self-assessment questions, and knowledge checks within the course materials to reinforce learning and allow educator and learners to gauge progress. This will include interactive implementation, such as using `learnr` modules to facilitate active learning.
 
 ### Accessibility and Inclusivity
 
