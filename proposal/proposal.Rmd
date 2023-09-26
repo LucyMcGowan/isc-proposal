@@ -19,7 +19,7 @@ The content will be based on our forthcoming book, "Causal Inference in R". We w
 
 **Slide Decks:** We will create visually engaging slide decks for each chapter. These will incorporate clear explanations, illustrative examples, and relevant visuals to facilitate understanding. 
 
-**Lab Exercises:** We will develop a series of hands-on lab exercises corresponding to the concepts covered in each chapter. Provide datasets, code templates, and specific tasks to guide learners through the application of causal inference techniques in R.
+**Lab Exercises:** We will develop a series of hands-on lab exercises corresponding to the concepts covered in each chapter. Additionally, we will provide datasets, code templates, and specific tasks to guide learners through the application of causal inference techniques in R.
 
 **Assessments:** We will integrate quizzes, self-assessment questions, and knowledge checks within the course materials to reinforce learning and allow educator and learners to gauge progress.
 
