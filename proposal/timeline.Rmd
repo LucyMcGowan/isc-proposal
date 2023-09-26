@@ -1,33 +1,20 @@
 # Project plan
 
 ## Start-up phase
-<!--
-Covering the planning phase, this section should provide a relatively detailed plan of how work will start on the project. This section is important because projects need to get up and running quickly.
 
+The timeline for this project is January 01, 2024 to December 21, 2024. 
 
- - [ ] Setting up collaboration platform inc. code for contributors etc.
- - [ ] Licence decisions
- - [ ] Reporting framework
--->
+We will create a repository on the `r-causal` GitHub organization for "Causal Inference in a Box" under the Creative Commons Attribution-ShareAlike 4.0 International Public License. All relevant software repositories already exist under the MIT license. 
 
+Additionally, we will create a linked Posit Cloud space via a git import, allowing us to regularly sync materially on the repository to the ready-to-use Cloud space.
+
+## Community communication
+
+We will also announce the project on our [r-causal blog](https://r-causal.github.io/r-causal-blog/), and then provide regular updates throughout the progress. As teachers already use many our materials, we expect community feedback via GitHub and other communication. When the project is complete, we will make a blog post acknowledging all community contributors. We will also submit talks to conferences like useR! and posit::conf() for both 2024 and 2025. Additionally, we will provide the R Consortium regular reports.
 
 ## Technical delivery
-<!--
-Covering the actual delivery of the project this section should provide at least a high-level the implementation. 
 
-Including target dates is really important as you need to be committed and the ISC need to have a means of tracking delivery
--->
-
-## Other aspects
-<!--
-Covering non-technical activities like on-going publicity, paper preparation, discussion groups etc. that might be required to facilitate successful delivery of the project.
-
-From Malcolm: I'm adjusting this checklist to include some potential routes
-
- - [ ] Announcement post on r-causal blog
- - [ ] Chapterly updates on our blog + releases of software
- - [ ] ~~Twitter~~ social media of all sorts EXCEPT twitter
- - [ ] UseR!
- - [ ] posit::conf()
- - [ ] ISC meetings
--->
+* A GitHub repository containing all slides, labs, and assessments for the "Causal Inference in a Box" course.
+* A deployed GitHub Pages website for the repository containing relevant rendered materials, such as HTML slides.
+* A deployed Posit Cloud learning space with all materials and packages ready to use
+* A 0.1.0 (initial) CRAN release for propensity and a 1.0.0 CRAN release for ggdag.
