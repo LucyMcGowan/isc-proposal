@@ -1,4 +1,4 @@
-proposal<-"Causal inference in a Box"
+proposal<-"Causal Inference in a Box"
 proposal.file<-"isc-proposal.Rmd"
 author<-"Lucy D’Agostino McGowan, Malcolm Barrett, Travis Gerke"
 
