@@ -1,5 +1,7 @@
 # Signatories
 
+TODO: include this in some capacity? Maybe have Mine give a reference based on DS in a box + us hosting the workshop?
+
 ## Project team
 
 **Lucy D'Agostino McGowan** 
