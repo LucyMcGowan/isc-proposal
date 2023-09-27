@@ -5,29 +5,27 @@ This is where the proposal should be outlined.
 
 ## Overview
 
-In response to a growing demand for accessible and comprehensive educational resources in causal inference within the R community, we propose the development of a "Causal Inference in a Box" course. This initiative aims to bridge the existing knowledge gap, empowering R users with the skills needed for robust causal analyses. Leveraging a "teach the teacher" model and building on the successful "Data Science in a Box" template, we will provide a set of instructional materials, including slide decks, lab exercises, and assessments, all meticulously designed to facilitate effective learning. Additionally, we are committed to ensuring inclusivity by offering alternative formats for diverse learning preferences. This comprehensive course, supported by dedicated pedagogical software tools, will revolutionize the way practitioners approach causal inference in the R environment, ultimately enhancing the quality and reliability of their research and analyses.
+In response to a growing demand for accessible and comprehensive educational resources in causal inference within the R community, we propose the development of a "Causal Inference in a Box" course. Leveraging a "teach the teacher" model and building on the successful "Data Science in a Box" template, we will provide a set of instructional materials, including slide decks, lab exercises, and assessments, all meticulously designed to facilitate effective learning. Additionally, we are committed to ensuring inclusivity by offering alternative formats for diverse learning preferences. This comprehensive course, supported by dedicated pedagogical software tools, will revolutionize the way practitioners approach causal inference in the R environment, ultimately enhancing the quality and reliability of their research and analyses.
 
 ## Detail
 
 ### Software Development
 
-We plan to develop software with a distinct pedagogical focus, designed expressly to facilitate effective learning experiences. This software will be crafted to guide learners through the intricacies of causal inference within the R environment. By leveraging user-friendly interfaces, our software aims to empower users with a comprehensive understanding of causal inference methodologies. We have begun development of several of these tools: `ggdag`: a package to facilitate creating causal diagrams, `halfmoon`: a package to assist with checking and visualizing balance between exposure groups, and `propensity`: a package for fitting propensity score models. This proposal suppoers the development of new versions of `ggdag` and `propensity` to release to CRAN that have valuable pedagogical tools.
+We will develop software with a distinct pedagogical focus, designed expressly to facilitate effective learning experiences. This user-friendly software will be crafted to guide learners through the intricacies of causal design and inference within the R environment. We actively develop and maintain several of the tools which will complement and integrate with Causal Inference in a Box: [`ggdag`](https://github.com/r-causal/ggdag): a package to facilitate creating causal diagrams, [`halfmoon`](https://github.com/r-causal/halfmoon): a package to assist with checking and visualizing balance between exposure groups, and [`propensity`](https://github.com/r-causal/propensity): a package for fitting propensity score models. As part of the Causal Inference in a Box ecosystem, this proposal supports the development of pedagogical extensions to `ggdag` and `propensity` to release to CRAN.
 
 ### Curriculum Development
 
-The content will be based on our forthcoming book, [*Causal Inference in R*](https://www.r-causal.org/). We will create slide decks, lab exercises, and assessments, all hosted on GitHub. The content will include references to relevant book sections, allowing learners to easily navigate between the course and the book for a deeper understanding. We plan to create the content in plain language, avoiding jargon or technical terms that may be unfamiliar to learners.
+The content of Causal Inference in a Box will follow the structure of our forthcoming book, [*Causal Inference in R*](https://www.r-causal.org/), which is publicly available at [r-causal.org](https://www.r-causal.org/). We will create slide decks, lab exercises, and assessments, all hosted on GitHub. The content will include references to relevant book sections, allowing learners to easily navigate between the course and the book for a deeper understanding. We plan to create the content in plain language, avoiding jargon or technical terms that may be unfamiliar to learners.
 
 **Slide Decks:** We will create visually engaging slide decks for each chapter. These will incorporate clear explanations, illustrative examples, and relevant visuals to facilitate understanding. 
 
 **Lab Exercises:** We will develop a series of hands-on lab exercises corresponding to the concepts covered in each chapter. Additionally, we will provide datasets, code templates, and specific tasks to guide learners through the application of causal inference techniques in R.
 
-**Assessments:** We will integrate quizzes, self-assessment questions, and knowledge checks within the course materials to reinforce learning and allow educator and learners to gauge progress. This will include interactive implementation, such as using `learnr` modules to facilitate active learning.
+**Assessments:** We will integrate quizzes, self-assessment questions, and knowledge checks within the course materials to reinforce learning and allow educators and learners to gauge progress. This will include interactive implementations, such as `learnr` modules to facilitate active learning.
 
 ### Accessibility and Inclusivity
 
-We plan to provide alternative formats for learners with different learning preferences, such as text descriptions of visualizations for the visually impaired.
-
-
+We plan to provide alternative formats for learners with different learning preferences, such as text descriptions of visualizations for the visually impaired. Causal Inference in a Box also provides a new learning avenue for those who do not wish to engage with the deep mathematical underpinnings of causal inference, as many textbooks and learning resources in the field currently feature. As an alternative, we wish to eliminate jargon and theoretical edge-cases in favor of a rapid on-ramp to applied conduct of valid causal inference with R.
 
 <!--
 Go into more detail about the specifics of the project and it delivers against the problem.
