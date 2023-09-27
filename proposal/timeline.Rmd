@@ -17,4 +17,4 @@ We will also announce the project on our [r-causal blog](https://r-causal.github
 * A GitHub repository containing all slides, labs, and assessments for the "Causal Inference in a Box" course.
 * A deployed GitHub Pages website for the repository containing relevant rendered materials, such as HTML slides.
 * A deployed Posit Cloud learning space with all materials and packages ready to use
-* A 0.1.0 (initial) CRAN release for propensity and a 1.0.0 CRAN release for ggdag.
+* A 0.1.0 CRAN release for propensity and a 1.0.0 CRAN release for ggdag.
