@@ -11,7 +11,7 @@ In response to a growing demand for accessible and comprehensive educational res
 
 ### Software Development
 
-We will develop software with a distinct pedagogical focus, designed expressly to facilitate effective learning experiences. This user-friendly software will be crafted to guide learners through the intricacies of causal design and inference within the R environment. We actively develop and maintain several of the tools which will complement and integrate with Causal Inference in a Box: [`ggdag`](https://github.com/r-causal/ggdag): a package to facilitate creating causal diagrams, [`halfmoon`](https://github.com/r-causal/halfmoon): a package to assist with checking and visualizing balance between exposure groups, and [`propensity`](https://github.com/r-causal/propensity): a package for fitting propensity score models. As part of the Causal Inference in a Box ecosystem, this proposal supports the development of pedagogical extensions to `ggdag` and `propensity` to release to CRAN.
+We will develop software with a distinct pedagogical focus, designed expressly to facilitate effective learning experiences. This user-friendly software will be crafted to guide learners through the intricacies of causal design and inference within the R environment. We actively develop and maintain several of the tools which will complement and integrate with Causal Inference in a Box: [ggdag](https://github.com/r-causal/ggdag): a package to facilitate creating causal diagrams, [halfmoon](https://github.com/r-causal/halfmoon): a package to assist with checking and visualizing balance between exposure groups, and [propensity](https://github.com/r-causal/propensity): a package for fitting propensity score models. As part of the Causal Inference in a Box ecosystem, this proposal supports the development of pedagogical extensions to ggdag and propensity to release to CRAN.
 
 ### Curriculum Development
 
@@ -21,7 +21,7 @@ The content of Causal Inference in a Box will follow the structure of our forthc
 
 **Lab Exercises:** We will develop a series of hands-on lab exercises corresponding to the concepts covered in each chapter. Additionally, we will provide datasets, code templates, and specific tasks to guide learners through the application of causal inference techniques in R.
 
-**Assessments:** We will integrate quizzes, self-assessment questions, and knowledge checks within the course materials to reinforce learning and allow educators and learners to gauge progress. This will include interactive implementations, such as `learnr` modules to facilitate active learning.
+**Assessments:** We will integrate quizzes, self-assessment questions, and knowledge checks within the course materials to reinforce learning and allow educators and learners to gauge progress. This will include interactive implementations, such as learnr modules to facilitate active learning.
 
 ### Accessibility and Inclusivity
 
