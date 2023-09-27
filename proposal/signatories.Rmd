@@ -4,6 +4,8 @@ TODO: include this in some capacity? Maybe have Mine give a reference based on D
 
 ## Project team
 
+TODO: I would suggest we don't need this section. It takes a lot of space, and our names are at the top of the document and in the bio section.
+
 **Lucy D'Agostino McGowan** 
 
 **Malcolm Barrett** 
