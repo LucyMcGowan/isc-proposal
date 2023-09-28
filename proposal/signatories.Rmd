@@ -2,9 +2,11 @@
 
 The following members of the community have endorsed our proposal:
 
-**Max Kuhn**, Posit, lead developer of tidymodels: "This critical topic is complicated and has no public and easy-to-use public educational tools. Having these particular experts develop training materials using open and cost free software would enable many practitioners to 'level up' their expertise."
+**Max Kuhn**, Posit, tidymodels team: "This critical topic is complicated and has no public and easy-to-use public educational tools. Having these particular experts develop training materials using open and cost free software would enable many practitioners to 'level up' their expertise."
 
 **Eleanor Murray**, Boston University, Assistant Professor of Epidemiology: "This will be a useful contribution for educators and learners in the R and epidemiology communities. These experts have a track record for creating useful content and are uniquely suited to make this contribution and I look forward to the end product."
+
+**Jenny Bryan**, Posit, tidyverse team: "Causal inference was the initial focus of my PhD work, many moons ago. Although I have since moved in other directions, I can say that actually applying causal inference methods posed certain challenges. Even in my day, some of it was even possible with existing tools, but only if you had a strong conceptual handle and enough programming skills to fill in the gaps. I'm sure the tooling has since improved. But I find it very easy to believe that materials like "Causal Inference in a Box" will be very enabling for instructors. I also have personal experience working with 2 of the investigators and have high confidence that they will successfully complete the planned project."
 
 ## Project team
 
