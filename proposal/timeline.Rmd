@@ -6,7 +6,7 @@ The timeline for this project is January 01, 2024 to December 21, 2024.
 
 We will create a repository on the `r-causal` GitHub organization for "Causal Inference in a Box" under the Creative Commons Attribution-ShareAlike 4.0 International Public License. All relevant software repositories already exist under the MIT license. 
 
-Additionally, we will create a linked Posit Cloud space via a git import, allowing us to regularly sync materially on the repository to the ready-to-use Cloud space.
+Additionally, we will create a linked Posit Cloud space via a git import, allowing us to regularly sync material from the repository to the ready-to-use Cloud space.
 
 ## Community communication
 
