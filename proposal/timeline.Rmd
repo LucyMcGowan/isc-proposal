@@ -10,9 +10,11 @@ Additionally, we will create a linked Posit Cloud space via a git import, allowi
 
 ## Community communication
 
-We will also announce the project on our [r-causal blog](https://r-causal.github.io/r-causal-blog/), and then provide regular updates throughout the progress. As teachers already use many our materials, we expect community feedback via GitHub and other communication. When the project is complete, we will make a blog post acknowledging all community contributors. We will also submit talks to conferences like useR! and posit::conf() for both 2024 and 2025. Additionally, we will provide the R Consortium regular reports.
+We will announce the project on our [r-causal blog](https://r-causal.github.io/r-causal-blog/), as well as on social media, and provide regular updates throughout the progress. As teachers already use many of our materials, we expect community feedback via GitHub and other communication. When the project is complete, we will make a blog post acknowledging all community contributors. We will also submit talks to conferences such as useR! and posit::conf() for both 2024 and 2025. Additionally, we will provide the R Consortium regular reports.
 
 ## Technical delivery
+
+Our deliverables are as follows: 
 
 * A GitHub repository containing all slides, labs, and assessments for the "Causal Inference in a Box" course.
 * A deployed GitHub Pages website for the repository containing relevant rendered materials, such as HTML slides.
