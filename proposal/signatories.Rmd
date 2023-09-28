@@ -1,6 +1,8 @@
 # Signatories
 
-TODO: include this in some capacity? Maybe have Mine give a reference based on DS in a box + us hosting the workshop?
+The following members of the community have endorsed our proposal:
+
+Max Kuhn, Posit, lead developer of tidymodels: "We really need a public set of training materials for this topic."
 
 ## Project team
 
