@@ -4,9 +4,9 @@ The following members of the community have endorsed our proposal:
 
 Max Kuhn, Posit, lead developer of tidymodels: "This critical topic is complicated and has no public and easy-to-use public educational tools. Having these particular experts develop training materials using open and cost free software would enable many practitioners to 'level up' their expertise."
 
-## Project team
+Eleanor Murray, Boston University, Assistant Professor of Epidemiology: "This will be a useful contribution for educators and learners in the R and epidemiology communities. These experts have a track record for creating useful content and are uniquely suited to make this contribution and I look forward to the end product."
 
-TODO: I would suggest we don't need this section. It takes a lot of space, and our names are at the top of the document and in the bio section.
+## Project team
 
 **Lucy D'Agostino McGowan** 
 
