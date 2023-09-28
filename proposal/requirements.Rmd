@@ -18,7 +18,7 @@ All three team members will contribute to writing of material; Malcolm will be r
 
 ## Tools & Tech
 
-Instructional materials will be hosted on the web, including slides, labs, and solutions. The repository with source materials will be available on the `r-causal` GitHub organizations. Rendered HTML slides will also be hosted on GitHub Pages. We will also support interactive learning via both local installation of materials and hosted cloud-based material. For instance, students will have access to Posit Cloud spaces with all packages and materials prepared. Some educational components will also be self-guided interactive experiences via learnr.
+Instructional materials will be hosted on the web, including slides, labs, and solutions. The repository with source materials will be available on the `r-causal` GitHub organization. Rendered HTML slides will also be hosted on GitHub Pages. We will also support interactive learning via both local installation of materials and hosted cloud-based material. For instance, students will have access to Posit Cloud spaces with all packages and materials prepared. Some educational components will also be self-guided interactive experiences via learnr.
 
 ## Funding
 
