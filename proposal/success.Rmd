@@ -4,29 +4,29 @@
 
 At project conclusion, four primary deliverables will be available:
 
-1. The complete "Causal Inference in a Box" repository with content (slides, lab exercises, assessments) corresponding to each of the 19 chapters in *Causal Inference in R*,
+1. The complete Causal Inference in a Box repository with content (slides, lab exercises, assessments) corresponding to each of the 19 chapters in *Causal Inference in R.*
   
-2. A GitHub Pages website which features fully rendered materials and general guidance on use of "Causal Inference in a Box",
+2. A GitHub Pages website which features fully rendered materials and general guidance on use of Causal Inference in a Box.
 
-3. A Posit Cloud learning space populated with all "Causal Inference in a Box" materials and packages,
+3. A Posit Cloud learning space populated with all Causal Inference in a Box materials and packages.
 
 4. CRAN releases of the propensity (v0.1.0) and ggdag (v1.0.0) packages.
 
 ## Measuring success
 
-Iterative beta releases of "Causal Inference in a Box" will occur with the completion of each chapter's content. With this strategy, we will gather feedback and continuously improve material according to the experience of early adopters. Additionally, beta release announcements through social media and other venues (e.g. workshops/conferences) will incrementally enhance visibility of the project, ideally reaching a large instructor and learner audience by the time of final release. GitHub repository stars and site traffic metrics for the rendered GitHub Pages site will provide feedback regarding project reach.
+Iterative beta releases of Causal Inference in a Box will occur with the completion of each chapter's content. With this strategy, we will gather feedback and continuously improve material according to the experience of early adopters. Additionally, beta release announcements through social media and other venues (e.g. workshops/conferences) will incrementally enhance visibility of the project, ideally reaching a large instructor and learner audience by the time of final release. GitHub repository stars and site traffic metrics for the rendered GitHub Pages site will provide feedback regarding project reach.
 
 At each project meeting during the funded period, the team will assess overall progress towards completed versions of content for all 19 chapters. Generally, we aim to complete a minimum of two chapters of content per month, a timeline which would provide two months of flexibility for unforeseen technical challenges or general infrastructure builds that are not chapter-specific. 
 
 ## Future work
 
-"Causal Inference in a Box" is a natural extension of the "Data Science in a Box" framework. Success and uptake will provide a touchstone for other areas of interest --- i.e. "*Other topical domains* in a Box" --- to embrace this approach. 
+Causal Inference in a Box is a natural extension of the Data Science in a Box framework. Success and uptake will provide a touchstone for other areas of interest --- i.e. "*Other topical domains* in a Box" --- to embrace this approach. 
 
-Within the domain of causal inference specifically, new developments and methods implementations emerge at a rapid pace; we aim to update "Causal Inference in a Box" according to community needs and, ideally, with the future support of interested developer-collaborators.
+Within the domain of causal inference specifically, new developments and methods implementations emerge at a rapid pace; we aim to update Causal Inference in a Box according to community needs and, ideally, with the future support of interested developer-collaborators.
 
 ## Key risks
 
-"Causal Inference in a Box" is envisioned as a complementary learning tool for our *Causal Inference in R* book. Although the majority content of the book is drafted, incomplete chapters in calendar year 2024 could pose delays in creating the corresponding project content. We anticipate this risk to be low. 
+We envision Causal Inference in a Box as a complementary learning tool for our *Causal Inference in R* book. Although the majority content of the book is drafted, incomplete chapters in calendar year 2024 could pose delays in creating the corresponding project content. We anticipate this risk to be low. 
 
 In general, much of the infrastructure and tooling needed to make this project successful has been tested and used by the project authors over multiple "Causal Inference in R" workshops across hundreds of users. In general, adverse risks to project completion in the technical sense are minimal.
 

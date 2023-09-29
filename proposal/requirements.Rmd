@@ -2,7 +2,7 @@
 
 ## People
 
-The team for this project consists of the authors of [Causal Inference in R](https://www.r-causal.org/), an upcoming book from CRC Press.
+The team for this project consists of the authors of [*Causal Inference in R*](https://www.r-causal.org/), an upcoming book from CRC Press.
 
 **Malcolm Barrett, Ph.D.** is an epidemiologist, data scientist, and R package developer. His training in academia and work experience in industry focused on practical applications of causal inference. His R packages for causal inference include ggdag, halfmoon, propensity, and more. Malcolm has also worked as a Data Science Educator on Posit Academy writing interactive educational materials on learnr and writing student projects. 
 
