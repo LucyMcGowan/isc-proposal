@@ -10,9 +10,9 @@ The following members of the community have endorsed our proposal:
 
 ## Project team
 
-**Lucy D'Agostino McGowan** 
-
 **Malcolm Barrett** 
+
+**Lucy D'Agostino McGowan** 
 
 **Travis Gerke**
 
