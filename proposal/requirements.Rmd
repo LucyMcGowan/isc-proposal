@@ -4,28 +4,28 @@
 
 The team for this project consists of the authors of [*Causal Inference in R*](https://www.r-causal.org/), an upcoming book from CRC Press.
 
-**Malcolm Barrett, Ph.D.** is an epidemiologist, data scientist, and R package developer. His training in academia and work experience in industry focused on practical applications of causal inference. His R packages for causal inference include ggdag, halfmoon, propensity, and more. Malcolm has also worked as a Data Science Educator on Posit Academy writing interactive educational materials on learnr and writing student projects. 
+**Malcolm Barrett, Ph.D.** is an epidemiologist, data scientist, and R package developer. His academic training and work experience in industry focused on practical applications of causal inference. His R packages for causal inference include ggdag, halfmoon, propensity, and more. Malcolm has also worked as a Data Science Educator at Posit Academy, writing interactive educational materials on learnr and writing student projects.
 
-**Lucy D'Agostino McGowan, Ph.D.** is an assistant professor in the Department of Statistical Sciences at Wake Forest University. Her research focuses on causal inference, data science pedagogy, and human-data interaction. Her R packages for causal inference include tipr and quartets. She designed and teaches both an undergraduate and graduate level Causal Inference course at Wake Forest University. Lucy and Malcolm also designed and taught a *Causal Inference in R* workshop at several venues including the New York R Conference, RStudio Conference, Posit Conference, the R Conference for Government, as well as for several private companies.
+**Lucy D'Agostino McGowan, Ph.D.** is an assistant professor in the Department of Statistical Sciences at Wake Forest University. Her research focuses on causal inference, data science pedagogy, and human-data interaction. Her R packages for causal inference include tipr and quartets. She designed and teaches both an undergraduate and graduate-level Causal Inference course at Wake Forest University. Lucy and Malcolm also developed and taught a *Causal Inference in R* workshop at several venues, including the New York R Conference, RStudio Conference, Posit Conference, the R Conference for Government, as well as for several private companies.
 
 **Travis Gerke, Sc.D.** leads data science teams in the clinical trials domain, where the importance of causal inference concepts and techniques emerge across both randomized study designs and observational, real-world evidence investigations. In previous academic roles, his research program focused on applications of causal inference and related R software development, including the [shinydag](https://github.com/GerkeLab/shinyDAG) and [mediator](https://github.com/GerkeLab/mediator) packages. His pedagogical experience includes developing several graduate courses in advanced epidemiologic methods and statistics, co-leading the most recent iteration of the *Causal Inference in R* workshop at Posit Conference, and co-authoring the *Causal Inference in R* book with Lucy and Malcolm.
 
 ## Processes
 
-Malcolm, Travis, and Lucy will collaborate weekly via email, GitHub, and video chat. The course repository, with all instructional materials, will be hosted on the `r-causal` GitHub organization under a Creative Commons Attribution-ShareAlike 4.0 International Public License. Software such as ggdag and propensity are also hosted in this organization under an MIT License. All repositories will come with a code of conduct based on the template from `usethis::use_code_of_conduct()`. 
+Malcolm, Travis, and Lucy will collaborate weekly via email, GitHub, and video chat. The course repository with all instructional materials will be hosted on the `r-causal` GitHub organization under a Creative Commons Attribution-ShareAlike 4.0 International Public License. Software such as ggdag and propensity are also hosted in this organization under an MIT License. All repositories will have a code of conduct based on the template from `usethis::use_code_of_conduct()`. 
 
-All three team members will contribute to writing of material; Malcolm will be responsible for improving the pedagogically-focused elements of ggdag and propensity.
+All three team members will contribute to the writing of material; Malcolm will be responsible for improving the pedagogically-focused elements of ggdag and propensity.
 
 ## Tools & Tech
 
-Instructional materials will be hosted on the web, including slides, labs, and solutions. The repository with source materials will be available on the `r-causal` GitHub organization. Rendered HTML slides will also be hosted on GitHub Pages. We will also support interactive learning via both local installation of materials and hosted cloud-based material. For instance, students will have access to Posit Cloud spaces with all packages and materials prepared. Some educational components will also be self-guided interactive experiences via learnr.
+Instructional materials, including slides, labs, and solutions, will be hosted on the web. The repository with source materials will be available on the `r-causal` GitHub organization. Rendered HTML slides will also be hosted on GitHub Pages. We will also support interactive learning via both local installation of materials and hosted cloud-based material. For instance, students will have access to Posit Cloud spaces with all packages and materials prepared. Some educational components will also be self-guided interactive experiences via learnr.
 
 ## Funding
 
-We are requesting $30,000 USD to fund the development of Causal Inference in a Box, as well as making pedagogical improvements to surrounding infrastructure.
+We request $30,000 USD to fund the development of Causal Inference in a Box and make pedagogical improvements to the surrounding infrastructure.
 
-The timeline for this project is January 01, 2024 to December 21, 2024.
+The timeline for this project is January 01, 2024, to December 21, 2024.
 
 ## Summary
 
-There are 19 Chapters in our book, and we will develop slides, labs, and assessments for each chapter. We estimate the labor cost of this process to be $1,500 per chapter. Additionally, we expect $1,500 in labor costs for making pedagogical improvements to causal inference software (ggdag, propensity).
+There are 19 Chapters in our book, and we will develop slides, labs, and assessments for each chapter. We estimate the labor cost of this process to be $1,500 per chapter. Additionally, we expect $1,500 in labor costs for making pedagogical improvements to causal inference software (ggdag, propensity).=
